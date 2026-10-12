@@ -1,0 +1,5 @@
+numpy==2.3.5
+scipy==1.17.1
+pandas==3.0.0
+statsmodels==0.15.0
+openai==3.19.2
